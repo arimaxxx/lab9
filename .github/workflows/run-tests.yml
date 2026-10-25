@@ -1,3 +1,4 @@
+# Automatically run calculator tests on push
 name: Run tests
 
 on:
